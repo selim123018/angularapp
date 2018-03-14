@@ -1,0 +1,22 @@
+      .container button{
+        float: right;
+      }
+
+      .container table thead tr th{
+        text-align:center;
+      }
+
+      .container table tbody tr td{
+        text-align:center;
+      }
+      .container table tbody tr td button{
+        margin-right: 10px;
+      }
+     .container form button{
+      float: left;
+     }
+
+     .container form input{
+      resize: horizontal;
+      width: 450px;
+     }
